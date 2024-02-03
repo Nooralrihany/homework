@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.container table {
+    width: 700px;
+    height: 150px;
+}
+.container table .one {
+    background-color: lightblue;
+}
+.container table .two {
+    background-color: rgb(203, 221, 226);
+}
